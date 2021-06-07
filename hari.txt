@@ -1,1 +1,2 @@
-Hari lives in banglore
+Hari lives in banglore.
+Hari works as an architect
