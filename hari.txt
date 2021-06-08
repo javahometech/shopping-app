@@ -2,3 +2,5 @@ Hari lives in banglore.
 Hari works as an architect
 Hari works as a consultant
 Adding linenumber four by asitav
+Hari works as a trainer too
+
