@@ -4,3 +4,4 @@ git is fast, git is comprehensive.
 git is important devops tool
 git is the most imp.
 adding files
+learning git fetch and pull
