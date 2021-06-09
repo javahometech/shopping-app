@@ -1,3 +1,4 @@
 Hari lives in banglore.
 Hari works as an architect
 Hari works as a consultant
+Hari works as a trainer too
