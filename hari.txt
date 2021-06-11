@@ -7,3 +7,4 @@ Hari works as a trainer too
 In git branch isolates our work
 We will also learn git work flowsm
 tags in git
+tags are used for release management
