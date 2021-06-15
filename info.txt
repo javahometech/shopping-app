@@ -5,3 +5,4 @@ git is important devops tool
 git is the most imp.
 adding files
 learning git fetch and pull
+how to use cherry pick
